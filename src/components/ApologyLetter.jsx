@@ -5,7 +5,7 @@ const LETTER_CONTENT = {
   greeting: "Hii sayangg,",
   paragraphs: [
     "Aku sadar kalau jatuh cinta bukan hanya tentang bersamamu, tapi juga tentang mengerti duniamu. 🌸",
-    "Maafin akh yang sempat buta dengan apa yang kamu rasain. Aku ingin belajar lagi menjadi rumah yang lebih peka dan lebih baik untuk segala keluh kesahmu.",
+    "Maafin aku yang sempat buta dengan apa yang kamu rasain. Aku ingin belajar lagi menjadi rumah yang lebih peka dan lebih baik untuk segala keluh kesahmu.",
     "Mungkin kata-kata yang aku rangkai memang ga seindah itu… tapi izinin aku buat coba belajar lagi jadi pribadi dan jadi pasangan yang lebih baik. 🥺",
   ],
   closing: "Selamanya untukmu,",
