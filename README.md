@@ -13,7 +13,7 @@ npm install
 npm run dev
 ```
 
-Open [http://localhost:5173](http://localhost:5173) — passcode: `02032026`
+Open [https://cute-apology.vercel.app/](https://cute-apology.vercel.app/) — passcode: `02032026`
 
 ---
 
